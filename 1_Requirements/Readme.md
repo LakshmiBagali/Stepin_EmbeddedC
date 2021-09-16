@@ -14,11 +14,11 @@ Adjusting the temperature is often one of the first things you do when you get i
 - Low cost system
 
 ### Weakness
--Its only applicable for those countries which are having low temperature.
+- Its only applicable for those countries which are having low temperature.
 ### Opportunities
--It can be implemented by having both Heater and AC.
+- It can be implemented by having both Heater and AC.
 ### Threats
--Not suitable for average or high temperature places.
+- Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
 ### WHAT
