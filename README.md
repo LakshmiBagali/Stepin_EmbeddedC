@@ -1,5 +1,6 @@
 # Stepin_EmbeddedC
 
+[![Compile-Linux](https://github.com/LakshmiBagali/Stepin_EmbeddedC/actions/workflows/Compile.yml/badge.svg)](https://github.com/LakshmiBagali/Stepin_EmbeddedC/actions/workflows/Compile.yml)
 [![Cppcheck](https://github.com/LakshmiBagali/Stepin_EmbeddedC/actions/workflows/Codequality.yml/badge.svg)](https://github.com/LakshmiBagali/Stepin_EmbeddedC/actions/workflows/Codequality.yml)
 ![Code Inspector](https://www.code-inspector.com/project/28875/score/svg)
 ![Code Grade](https://www.code-inspector.com/project/28875/status/svg)
