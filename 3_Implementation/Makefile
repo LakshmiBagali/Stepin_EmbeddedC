@@ -1,4 +1,4 @@
-PROJ_NAME = HeatControl
+PROJ_NAME = Embedded_HeatControl
 
 BUILD_DIR = Build
 
