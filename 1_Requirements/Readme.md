@@ -23,8 +23,10 @@ Adjusting the temperature is often one of the first things you do when you get i
 ## 4W's and 1'H
 ### WHAT
 -Seat Temperature Monitoring System
+
 ### WHERE  
 -Used in Automotive Industries
+
 ### WHEN  
 -At low Temperature
 
