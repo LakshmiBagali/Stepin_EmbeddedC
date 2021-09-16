@@ -1,7 +1,7 @@
 # Requirements
 
 ## Introduction
-Adjusting the temperature is often one of the first things you do when you get into a vehicle. Whether it's too hot or too cold outside, you want the climate in the car to be exactly how you like it.In the proposed project,we have used sensor which will sense whether driver is seated or not and if he is seated then need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a uart display will show the temperature.Here we have used ATmega328 microcontroller along with switch pins, LED, uart diplay,etc.
+Adjusting the temperature is often one of the first things you do when you get into a vehicle. Whether it's too hot or too cold outside, you want the climate in the car to be exactly how you like it.In the proposed project,we have used sensor which will sense whether driver is seated or not and if he is seated then need to set the temperature accordingly. Based on that our controller will set the heater to required temperature. The Heater will generate the heat and a uart display will show the temperature.Here we have used ATmega328 microcontroller along with switch pins, LED, UART diplay,etc.
 ## Features
 - The System will sense whether driver is seated or not
 - The temperature can be altered by driver
@@ -21,9 +21,12 @@ Adjusting the temperature is often one of the first things you do when you get i
 - Not suitable for average or high temperature places.
 
 ## 4W's and 1'H
-### **WHAT** : STEPin_Seat_Temperature_Monitoring_System
-### **WHERE** : Used in Automotive Industries
-### **WHEN** : At low Temperature
+### WHAT
+-Seat Temperature Monitoring System
+### WHERE  
+-Used in Automotive Industries
+### WHEN  
+-At low Temperature
 
 ## Detail requirements
 ### High Level Requirements
@@ -39,9 +42,9 @@ Adjusting the temperature is often one of the first things you do when you get i
 | Low Level Requirements      | Description |
 | ----------- | ----------- |
 | HLR1_LLR1      | ATmega328     |
-| HLR2_LLR1   | LM35 and ADC|
+| HLR2_LLR1   | Switch pins,LED and ADC|
 | HLR2_LLR2   | ADC with PWM-fast|
 | HLR3_LLR1   | Thermoelectric module|
-| HLR4_LLR1   |LCD and LED|
+| HLR4_LLR1   |UART and LED|
 | HLR5_LLR1   | Code Blocks with AVR GCC compiler |
 | HLR5_LLR2   | SimulIDE |
