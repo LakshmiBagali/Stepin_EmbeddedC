@@ -4,7 +4,7 @@
 ![Code Grade](https://www.code-inspector.com/project/28875/status/svg)
 
 
-## Folder Structure
+##Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
 | `1_Requirements`   | Documents detailing requirements and research|
